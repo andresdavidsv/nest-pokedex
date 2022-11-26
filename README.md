@@ -41,6 +41,19 @@ $ yarn start:prod
 $ localhost:3000/api/v2/seeders (get)
 ```
 
+## Redeploy without changes
+
+```bash
+$ git commit --allow-empty -m "Trigger Heroku deploy"
+$ git push heroku <branch>
+```
+
+## Deploy
+
+```bash
+$ https://pokedex-andresdavidsv.herokuapp.com/
+```
+
 ## Stack
 
 - MongoDB
