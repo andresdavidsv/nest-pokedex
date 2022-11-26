@@ -38,7 +38,7 @@ $ yarn start:prod
 ## Running Seeders
 
 ```bash
-$ localhost:3000/api/v2/seeders (get)
+localhost:3000/api/v2/seeders (get)
 ```
 
 ## Redeploy without changes
@@ -51,7 +51,7 @@ $ git push heroku <branch>
 ## Deploy
 
 ```bash
-$ https://pokedex-andresdavidsv.herokuapp.com/
+https://pokedex-andresdavidsv.herokuapp.com/
 ```
 
 ## Stack
