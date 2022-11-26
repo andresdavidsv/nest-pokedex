@@ -16,6 +16,11 @@ $ npm i -g @nestjs/cli
 $ docker-compose up -d
 ```
 
+```bash
+Seeders
+$ localhost:3000/api/v2/seeders
+```
+
 ## Running the app
 
 ```bash
