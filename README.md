@@ -16,9 +16,10 @@ $ npm i -g @nestjs/cli
 $ docker-compose up -d
 ```
 
+## Clone file
+
 ```bash
-Seeders
-$ localhost:3000/api/v2/seeders
+$ cp .env.example .env
 ```
 
 ## Running the app
@@ -34,14 +35,18 @@ $ yarn start:dev
 $ yarn start:prod
 ```
 
+## Running Seeders
+
+```bash
+$ localhost:3000/api/v2/seeders (get)
+```
+
 ## Stack
 
 - MongoDB
 - Mongoose
 - Nest
 - TypeSccript
-
-## Support
 
 ## Stay in touch
 
